@@ -5,4 +5,3 @@ For the input array [4, 5, 2, 25}, the next greater elements for each element ar
    4      -->   5
    5      -->   25
    2      -->   25
-   25     -->   -1
